@@ -1,4 +1,4 @@
-# lazy-30days-of-backend
+# Lazy 30days of Backend
 
 # Day 1: Bolu or Odun
 
